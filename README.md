@@ -1,0 +1,1 @@
+# composer-dummy-lib
